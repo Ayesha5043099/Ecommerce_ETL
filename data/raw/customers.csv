@@ -1,0 +1,9 @@
+customer_id,name,email,location,signup_date
+1,Ali Khan,ali.khan@gmail.com,Lahore,2023-01-10
+2,Sara Ahmed,sara.ahmed@gmail.com,Karachi,2023-01-15
+3,Usman Raza,usman.raza@gmail.com,Islamabad,2023-02-01
+4,Ayesha Malik,ayesha.malik@gmail.com,Lahore,2023-02-12
+5,Imran Sheikh,imran.sheikh@gmail.com,Faisalabad,2023-03-05
+6,Hina Noor,hina.noor@gmail.com,Karachi,2023-03-20
+7,Bilal Hussain,bilal.hussain@gmail.com,Multan,2023-04-01
+8,Zainab Ali,zainab.ali@gmail.com,Lahore,2023-04-18
